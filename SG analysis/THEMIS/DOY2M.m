@@ -1,3 +1,4 @@
+% By Martin Archer
 
 y = 2008;
 doy = 279;
