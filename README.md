@@ -8,7 +8,7 @@ resolution of data is 3 seconds.
 
 main functions:
 
-NASASCP - generates level 2 FGM data, initialises the conversion to GSM using IGRF using satellite state/position files from the NASA Scatterometer Climate Record Pathfinder (SCP) http://www.scp.byu.edu, and FGM data from THEMIS http://themis.ssl.berkeley.edu
+NASASCP - generates level 2 FGM signal, initialises the conversion to GSM using IGRF using satellite state/position files from the NASA Scatterometer Climate Record Pathfinder (SCP) http://www.scp.byu.edu, and FGM data from THEMIS http://themis.ssl.berkeley.edu
 
 SGVOS2 - generates level 2 THEMIS EFI signal in GSM with adaptive SG filter removed from data
 
